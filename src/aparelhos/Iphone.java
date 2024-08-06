@@ -49,6 +49,5 @@ public class Iphone implements AparelhoTelefonico, NavegadorInternet, Reprodutor
 		System.out.println("Atualizando página via Iphone");
 
 	}
- 
 	
 }
